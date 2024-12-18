@@ -1,10 +1,10 @@
 # Web Semantic Lab
 โปรเจคนี้เป็นส่วนหนึ่งของวิชา Web Frontend Development
-## รายละเอียด
+- รายละเอียด
 - การใช้ Semantic HTML
 - Form Validation
 - ARIA Labels
-## git command used in this lab
+- git command used in this lab
 - git clone https://github.com/ItSurichet/web-semantic-lab.git
 - git add. 
 - git commit -m 
